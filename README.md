@@ -29,30 +29,22 @@ Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalabl
 <div align="center">
 
 <a href="mailto:katsomar60@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-20232A?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 <a href="https://linkedin.com/in/kats-omar">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-20232A?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="https://omar-muammar-portifolio.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/portfolio.png" height="55"/>
+<img src="https://img.icons8.com/color/48/google-chrome--v1.png" height="55"/>
 </a>
 
 <a href="https://github.com/katsomar">
-<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
-
-<a href="https://omar-muammar-portifolio.vercel.app/projects">
-<img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://omar-muammar-portifolio.vercel.app/resume">
-<img src="https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=readme&logoColor=white"/>
-</a>
-
 </div>
+
 
  <hr/>
  
