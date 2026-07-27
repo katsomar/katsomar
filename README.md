@@ -214,19 +214,23 @@ Retail management system for sales, inventory control, and business analytics.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katsomar&theme=tokyonight" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katsomar&theme=tokyonight" width="95%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katsomar&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katsomar&theme=tokyonight" width="45%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katsomar&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katsomar&theme=tokyonight" width="45%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katsomar&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katsomar&theme=tokyonight" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katsomar&theme=tokyonight&utcOffset=3" width="45%" />
 
 </div>
+
+<br/>
 
 <br/>
 
