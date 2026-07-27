@@ -29,19 +29,15 @@ Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalabl
 <div align="center">
 
 <a href="mailto:katsomar60@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://img.shields.io/badge/📧%20Email-20232A?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/kats-omar">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-20232A?style=for-the-badge"/>
 </a>
 
 <a href="https://omar-muammar-portifolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
-</a>
-
-<a href="https://github.com/katsomar">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-20232A?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/katsomar">
