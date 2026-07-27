@@ -212,18 +212,17 @@ Retail management system for sales, inventory control, and business analytics.
 
 <div align="center">
 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=katsomar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=katsomar&theme=react&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=katsomar&theme=tokyonight&hide_border=true" />
 
+  <br/><br/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=katsomar&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=katsomar&theme=tokyo-night&hide_border=true" />
 
+  <br/><br/>
 
-<br/><br/>
-
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsomar&layout=compact&theme=react&border_radius=10&langs_count=8" />
-
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsomar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
