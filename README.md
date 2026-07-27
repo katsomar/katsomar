@@ -26,18 +26,24 @@ Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalabl
 
 ⚡ I enjoy transforming complex business challenges into elegant, scalable, and user-friendly software solutions.
 
-</div>
- 
-<div align="center"> 
-  <a href="mailto:kats.omar.codevs70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/kats-omar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://omar-muammar-portifolio.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<div align="center">
+
+<a href="mailto:katsomar60@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://linkedin.com/in/kats-omar">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://omar-muammar-portifolio.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+</a>
+
+<a href="https://github.com/katsomar">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
 </div>
 
  <hr/>
