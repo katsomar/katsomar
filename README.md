@@ -124,7 +124,7 @@ Full Stack Software Engineer | Founder @ Skyrix Technologies | Building scalable
 
 <h3>🐔 LOKO Harvest Management System</h3>
 
-<img src="./assets/loko-harvest.png" width="400"/>
+<img src="./assets/loko.png" width="400"/>
 
 <br/><br/>
 
@@ -141,7 +141,7 @@ Enterprise agriculture management platform for operational tracking, inventory, 
 
 <h3>🏫 Bornwell Academy School System</h3>
 
-<img src="./assets/school-system.png" width="400"/>
+<img src="./assets/born.png" width="400"/>
 
 <br/><br/>
 
@@ -179,7 +179,7 @@ Financial management solution for members, transactions, records, and reporting.
 
 <h3>🛒 Skyrix POS System</h3>
 
-<img src="./assets/pos-system.png" width="400"/>
+<img src="./assets/pos.png" width="400"/>
 
 <br/><br/>
 
