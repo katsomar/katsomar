@@ -2,24 +2,31 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Muammar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Muammar!;+Full+Stack+Software+Engineer;+Building+Scalable+Enterprise+Solutions;" />
+  </a>
 </h1>
 
-<h3 align="center">A passionate software developer from Uganda</h3>
+<h3 align="center">
+Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalable digital solutions from Uganda 🇺🇬
+</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on a variety of large scale **aEnterprise software**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS, Nginx, Oracle clound**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/katsomar/katsomar/issues)**
+🔭 Currently building **high-performance enterprise applications with Laravel, Next.js, TypeScript, MySQL, and modern cloud technologies**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 Currently expanding my expertise in **Docker, AWS, Oracle Cloud, Nginx, CI/CD, System Architecture, and Distributed Systems**
 
- </div>
+💼 Founder of **Skyrix Technologies**, developing software solutions for businesses, education, agriculture, finance, and retail
+
+🚀 Passionate about **software architecture, backend engineering, API development, database optimization, performance tuning, and creating products that solve real-world problems**
+
+💬 Ask me about **Laravel, PHP, JavaScript, TypeScript, Next.js, React, MySQL, REST APIs, System Design, or Enterprise Software Development**
+
+⚡ I enjoy transforming complex business challenges into elegant, scalable, and user-friendly software solutions.
+
+</div>
  
 <div align="center"> 
   <a href="mailto:kats.omar.codevs70@gmail.com">
