@@ -51,8 +51,25 @@ Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalabl
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,laravel,javascript,typescript,nextjs,mariadb,c,java,nextjs,mysql" /><br>
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=php,javascript,typescript,java,c,html,css" />
+
+<br><br>
+
+### ⚙️ Frameworks
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,nextjs,bootstrap,tailwind" />
+
+<br><br>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+
+<br><br>
+
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
+
 </div>
 
 <br/>
