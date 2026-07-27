@@ -160,14 +160,14 @@ School automation platform managing students, academics, finance, and administra
 
 <td width="50%" align="center">
 
-<h3>💳 Trinity SACCO Management System</h3>
+<h3>📦 LOKO Orders System</h3>
 
-<img src="./assets/sacco-system.png" width="400"/>
+<img src="./assets/orders.png" width="400"/>
 
 <br/><br/>
 
 <p>
-Financial management solution for members, transactions, records, and reporting.
+Order management platform for processing customer orders, tracking deliveries, and streamlining business operations..
 </p>
 
 <img src="https://skillicons.dev/icons?i=laravel,mysql" />
