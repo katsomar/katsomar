@@ -1,30 +1,36 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=katsomar.katsomar" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=katsomar.katsomar&left_color=gray&right_color=blue" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Muammar!;+Full+Stack+Software+Engineer;+Building+Scalable+Enterprise+Solutions;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Muammar!;+Full+Stack+Software+Engineer;+Building+Scalable+Enterprise+Solutions;" />
   </a>
 </h1>
 
 <h3 align="center">
-Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalable digital solutions from Uganda 🇺🇬
+Full Stack Software Engineer | Founder @ Skyrix Technologies | Building scalable software solutions from Uganda 🇺🇬
 </h3>
 
 <br/>
 
 <div align="center">
 
-🔭 Currently building **high-performance enterprise applications with Laravel, Next.js, TypeScript, MySQL, and modern cloud technologies**
+🚀 Building **scalable enterprise applications using Laravel, Next.js, TypeScript, MySQL, and modern software architecture principles**
 
-🌱 Currently expanding my expertise in **Docker, AWS, Oracle Cloud, Nginx, CI/CD, System Architecture, and Distributed Systems**
+🌱 Currently expanding my expertise in **Docker, Cloud Infrastructure, System Design, CI/CD, Nginx, and Distributed Systems**
 
-💼 Founder of **Skyrix Technologies**, developing software solutions for businesses, education, agriculture, finance, and retail
+💼 Founder of **Skyrix Technologies**, creating software solutions for businesses, education, agriculture, finance, and retail
 
-🚀 Passionate about **software architecture, backend engineering, API development, database optimization, performance tuning, and creating products that solve real-world problems**
+🏗️ Experienced in building **Business Management Systems, POS Platforms, School Management Systems, SACCO Solutions, and Agricultural Tracking Systems**
 
-💬 Ask me about **Laravel, PHP, JavaScript, TypeScript, Next.js, React, MySQL, REST APIs, System Design, or Enterprise Software Development**
+⚙️ Passionate about **backend engineering, API development, database optimization, performance tuning, and designing reliable software architectures**
 
-⚡ I enjoy transforming complex business challenges into elegant, scalable, and user-friendly software solutions.
+💬 Ask me about **Laravel, PHP, JavaScript, TypeScript, React, Next.js, REST APIs, MySQL, System Design, and Enterprise Software Development**
+
+⚡ I enjoy transforming complex real-world problems into elegant, scalable, and user-friendly software solutions.
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -43,65 +49,190 @@ Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalabl
 <a href="https://github.com/katsomar">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
+
 </div>
 
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<hr/>
+
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+
+<br/>
+
 <div align="center">
 
-### 💻 Languages
+
+### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=php,javascript,typescript,java,c,html,css" />
 
-<br><br>
-
-### ⚙️ Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,nextjs,bootstrap,tailwind" />
-
-<br><br>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
-
-<br><br>
-
-### ☁️ Cloud & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
-
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>
 
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,bootstrap,tailwind" />
+
+
+<br/><br/>
+
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+
+
+<br/><br/>
+
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+
+
+<br/><br/>
+
+
+### ☁️ DevOps & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,postman" />
+
+
+</div>
+
+
+<br/>
 <hr/>
+
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+
+
+### 🏢 Enterprise Business Management Systems
+
+Developing scalable business solutions that automate operations, improve productivity, and provide actionable insights.
+
 
 <br/>
+
+
+### 🐔 Agricultural Management Platforms
+
+Building digital systems for agricultural operations including tracking, inventory management, and data-driven decision making.
+
+
+<br/>
+
+
+### 🏫 School Management Systems
+
+Creating solutions that simplify academic management, financial tracking, reporting, and administrative workflows.
+
+
+<br/>
+
+
+### 💳 SACCO & Financial Management Systems
+
+Developing secure platforms for managing members, transactions, records, and financial operations.
+
+
+<br/>
+
+
+### 🛒 Point of Sale & Inventory Solutions
+
+Building reliable retail management systems for sales, stock management, reporting, and business analytics.
+
+
+</div>
+
+
+<br/>
+<hr/>
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br/>
+
+<div align="center">
+
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=katsomar&theme=react&border_radius=10" />
+
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=katsomar&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+
+
+<br/><br/>
+
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsomar&layout=compact&theme=react&border_radius=10&langs_count=8" />
+
+
+</div>
+
+
+<br/>
+<hr/>
+
+
+<h2 align="center">🐍 Contribution Journey 🐍</h2>
+
+<br/>
+
+<div align="center">
+
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/katsomar/katsomar/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+
+<br/>
+<hr/>
+
+
+<h2 align="center">📌 Current Focus</h2>
+
+<div align="center">
+
+🔹 Building production-ready enterprise applications
+
+<br/>
+
+🔹 Improving software architecture and scalability skills
+
+<br/>
+
+🔹 Exploring cloud infrastructure and DevOps practices
+
+<br/>
+
+🔹 Creating technology solutions that solve real-world problems
+
+</div>
+
+
+<br/>
+<hr/>
+
+
+<div align="center">
+
+<h3>
+⭐ Thanks for visiting my profile!
+</h3>
+
+<p>
+Let's connect, collaborate, and build impactful software solutions together.
+</p>
+
+</div>
