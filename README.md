@@ -247,9 +247,14 @@ Retail management system for sales, inventory control, and business analytics.
 
 <div align="center">
 
-<img alt="github contribution snake" src="https://raw.githubusercontent.com/katsomar/katsomar/output/github-contribution-grid-snake.svg" />
+<img 
+src="https://raw.githubusercontent.com/katsomar/katsomar/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake Animation"
+/>
 
 </div>
+
+<br/>
 
 
 <br/>
