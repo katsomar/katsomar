@@ -108,51 +108,98 @@ Full Stack Software Engineer | Founder @ Skyrix Technologies | Building scalable
 <hr/>
 
 
+<hr/>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <br/>
 
 <div align="center">
 
+<table>
 
-### 🏢 Enterprise Business Management Systems
+<tr>
 
-Developing scalable business solutions that automate operations, improve productivity, and provide actionable insights.
+<td width="50%" align="center">
 
+<h3>🐔 LOKO Harvest Management System</h3>
 
-<br/>
+<img src="./assets/loko-harvest.png" width="400"/>
 
+<br/><br/>
 
-### 🐔 Agricultural Management Platforms
+<p>
+Enterprise agriculture management platform for operational tracking, inventory, and business reporting.
+</p>
 
-Building digital systems for agricultural operations including tracking, inventory management, and data-driven decision making.
+<img src="https://skillicons.dev/icons?i=laravel,react,typescript,mysql" />
 
-
-<br/>
-
-
-### 🏫 School Management Systems
-
-Creating solutions that simplify academic management, financial tracking, reporting, and administrative workflows.
-
-
-<br/>
+</td>
 
 
-### 💳 SACCO & Financial Management Systems
+<td width="50%" align="center">
 
-Developing secure platforms for managing members, transactions, records, and financial operations.
+<h3>🏫 Bornwell Academy School System</h3>
+
+<img src="./assets/school-system.png" width="400"/>
+
+<br/><br/>
+
+<p>
+School automation platform managing students, academics, finance, and administration.
+</p>
+
+<img src="https://skillicons.dev/icons?i=php,mysql,javascript,bootstrap" />
+
+</td>
+
+</tr>
 
 
-<br/>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>💳 Trinity SACCO Management System</h3>
+
+<img src="./assets/sacco-system.png" width="400"/>
+
+<br/><br/>
+
+<p>
+Financial management solution for members, transactions, records, and reporting.
+</p>
+
+<img src="https://skillicons.dev/icons?i=laravel,mysql" />
+
+</td>
 
 
-### 🛒 Point of Sale & Inventory Solutions
+<td width="50%" align="center">
 
-Building reliable retail management systems for sales, stock management, reporting, and business analytics.
+<h3>🛒 Skyrix POS System</h3>
 
+<img src="./assets/pos-system.png" width="400"/>
+
+<br/><br/>
+
+<p>
+Retail management system for sales, inventory control, and business analytics.
+</p>
+
+<img src="https://skillicons.dev/icons?i=php,mysql,javascript" />
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+<br/>
+
+<hr/>
 
 
 <br/>
