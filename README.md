@@ -37,7 +37,7 @@ Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalabl
 </a>
 
 <a href="https://omar-muammar-portifolio.vercel.app/">
-<img src="https://img.icons8.com/color/48/google-chrome--v1.png" height="55"/>
+<img src="https://img.icons8.com/fluency/48/domain.png" height="55"/>
 </a>
 
 <a href="https://github.com/katsomar">
