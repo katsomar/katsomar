@@ -214,17 +214,17 @@ Retail management system for sales, inventory control, and business analytics.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=katsomar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=katsomar&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katsomar&theme=tokyonight" width="95%"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=katsomar&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katsomar&theme=tokyonight" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katsomar&theme=tokyonight" width="45%"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsomar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katsomar&theme=tokyonight" width="45%"/>
 
 </div>
 
