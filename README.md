@@ -206,25 +206,31 @@ Retail management system for sales, inventory control, and business analytics.
 <hr/>
 
 
+<hr/>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=katsomar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=katsomar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=katsomar&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=katsomar&theme=tokyonight&hide_border=true"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=katsomar&theme=tokyo-night&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=katsomar&theme=tokyo-night&hide_border=true"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsomar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsomar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br/>
+
+<hr/>
 
 
 <br/>
