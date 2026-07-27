@@ -44,6 +44,18 @@ Full Stack Software Engineer | Founder of Skyrix Technologies | Building scalabl
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
+<a href="https://github.com/katsomar">
+<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://omar-muammar-portifolio.vercel.app/projects">
+<img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://omar-muammar-portifolio.vercel.app/resume">
+<img src="https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
 </div>
 
  <hr/>
