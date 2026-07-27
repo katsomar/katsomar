@@ -281,23 +281,74 @@ Retail management system for sales, inventory control, and business analytics.
 <hr/>
 
 
-<h2 align="center">📌 Current Focus</h2>
+<h2 align="center">🚀 Current Focus & Developer Journey</h2>
+
+<br/>
 
 <div align="center">
 
-🔹 Building production-ready enterprise applications
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3>🏗️ Building</h3>
+
+<p>
+Creating <b>production-ready enterprise applications</b><br/>
+with clean architecture, scalable systems,<br/>
+and real-world business impact.
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🧠 Improving</h3>
+
+<p>
+Strengthening my skills in <b>software architecture</b>,<br/>
+system design, performance optimization,<br/>
+and scalable backend development.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<h3>☁️ Exploring</h3>
+
+<p>
+Learning modern <b>cloud infrastructure</b>,<br/>
+DevOps workflows, automation,<br/>
+and deployment strategies.
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🌍 Creating</h3>
+
+<p>
+Developing technology solutions that<br/>
+solve practical problems and improve<br/>
+how people and businesses operate.
+</p>
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 <br/>
 
-🔹 Improving software architecture and scalability skills
+<div align="center">
 
-<br/>
-
-🔹 Exploring cloud infrastructure and DevOps practices
-
-<br/>
-
-🔹 Creating technology solutions that solve real-world problems
+✨ <b>My Goal:</b> Build reliable software systems that combine great engineering with meaningful impact.
 
 </div>
 
